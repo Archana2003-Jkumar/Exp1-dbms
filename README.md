@@ -9,8 +9,6 @@ To fetch first name from the worker table using alias from the sample data using
 5.Display or process the retrieved first names as needed.
 ## PROGRAM:
 ```
-DEVELOPED BY:RITHIGA SRI.B
-REGISTRATION NUMER:212221230083
 CREATE TABLE worker (
     id INT,
     name VARCHAR(50),
